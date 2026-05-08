@@ -1,29 +1,22 @@
 ---
-title: "R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od samej ska — Kujawsko-Pomorskie"
+title: "R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od - Kujawsko-Pomorskie"
 date: 2026-05-08
-description: "Lokalna analiza dla regionu Kujawsko-Pomorskie: R.Power uzyskał finansowanie dla projektu Lasocice o mocy 80 MW w zachodniej Polsce. To nie jest wiadomość, która sama w"
-tags: ["OZE", "Bydgoszcz", "Kujawsko-Pomorskie", "energia odnawialna"]
+description: "W Bydgoszczy i calym regionie Kujawsko-Pomorskim: R.Power uzyskał finansowanie dla projektu Lasocice o mocy 80 MW w zachodniej Polsce. To nie jest wiadomość, kt"
+tags: ["OZE", "Bydgoszcz", "Kujawsko-Pomorskie", "energia odnawialna", "fotowoltaika"]
 ---
 
-# R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od samej ska — Kujawsko-Pomorskie
+# R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od - Kujawsko-Pomorskie
 
 ← Powrót do bloga R.Power zabezpiecza finansowanie dla 80 MW PV. Dla rynku ważniejsza od samej skali jest jakość projektu 08.05.2026
 
-Temat ten ma szczególne znaczenie dla mieszkańców Kujawsko-Pomorskie. Inwestycje w odnawialne źródła energii 
-w okolicach Bydgoszcz rozwijają się dynamicznie, a lokalne firmy i samorządy coraz chętniej sięgają 
-po dostępne dofinansowania.
+W Bydgoszczy i calym regionie Kujawsko-Pomorskim temat ten nabiera szczegolnego znaczenia. Lokalni inwestorzy, gminy i mieszkancy
+aktywnie poszukuja mozliwosci przejscia na odnawialne zrodla energii.
 
-W regionie Kujawsko-Pomorskie obserwujemy rosnące zainteresowanie prosumencką produkcją energii. 
-Instalacje fotowoltaiczne, pompy ciepła oraz systemy magazynowania energii BESS stają się 
-standardem w nowych inwestycjach budowlanych.
+Pelna analiza ekspercka dostepna na: ecoaudyt.app/blog/rpower-lasocice-80mw-finansowanie-2026
 
-Więcej szczegółów i pełna analiza dostępna na [ecoaudyt.app](https://ecoaudyt.app/blog/rpower-lasocice-80mw-finansowanie-2026).
+Skorzystaj z bezplatnego audytu energetycznego i sprawdz ile mozesz zaoszczedzic
+w swoim domu lub firmie w regionie Kujawsko-Pomorskie. Doradcy ecoaudyt.app pomoga dobrac
+optymalne rozwiazanie OZE dla Twojej lokalizacji.
 
-## Regionalny kontekst
+Wiecej na: https://ecoaudyt.app
 
-W Bydgoszcz i okolicach dostępne są liczne programy wsparcia finansowego:
-- **Czyste Powietrze** — do 66 000 zł na wymianę ogrzewania i OZE
-- **Moje Ciepło** — do 21 000 zł na pompy ciepła
-- Lokalne programy gminne — dodatkowe 5 000–15 000 zł
-
-Bezpłatny audyt energetyczny dla mieszkańców Kujawsko-Pomorskie: [https://ecoaudyt.app](https://ecoaudyt.app)
